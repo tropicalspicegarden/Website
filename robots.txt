@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap https://github.com/tropicalspicegarden/Website.git/sitemap.xml
